@@ -1,0 +1,8 @@
+{
+    "name": "Creality Screen Plugin",
+    "author": "Creality",
+    "description": "For creality screen",
+    "version": "1.0.0",
+    "api": 7,
+    "i18n-catalog": "Creality"
+}
